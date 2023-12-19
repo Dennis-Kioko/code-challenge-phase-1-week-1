@@ -20,4 +20,3 @@ const calculateSpeed = function (speed) {
 };
 
 //console.log(calculateSpeed(140));
-window.alert(speedLimit); 
