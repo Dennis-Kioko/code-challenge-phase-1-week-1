@@ -5,7 +5,7 @@ The challenge had three code challenges and I was supposed to solve the challeng
 
 ## Challege-1 Student Grade generator
 
-- Prompt in built function was uded to enable the user input the scores of the students.
+- Prompt in built function was used to enable the user input the scores of the students.
 - Different variables were used for storing data.
 - if else statement was used to check for various conditions.
 - Alert in build function was used to output the grade after the user inputs the student's score.
